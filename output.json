@@ -1,0 +1,5205 @@
+[
+    {
+        "test_case": 1,
+        "category": "Toys & Games",
+        "amazon_product": "LEGO Classic Creative Bricks Set 10696, Educational Building Toy for Kids, 484 Pieces, Ages 4+",
+        "matches": [
+            {
+                "serp_title": "LEGO Classic Creative Bricks Set - 10696 | Official LEGO® Store",
+                "status": "REVIEW",
+                "confidence_score": 83.77,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.59,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "LEGO Creative Box Educational Toy 10696 for Kids (4+)",
+                "status": "REVIEW",
+                "confidence_score": 83.5,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.59,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "LEGO Bricks Set 10696 - Perfect Gift for Kids",
+                "status": "REVIEW",
+                "confidence_score": 80.87,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "LEGO Building Set for Kids – Creative Bricks 10696 Sale",
+                "status": "NO MATCH",
+                "confidence_score": 77.02,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.43,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "LEGO 10696 Classic Set – Build, Play & Learn",
+                "status": "NO MATCH",
+                "confidence_score": 75.64,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.39,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "LEGO 484 Pieces Classic Set – Free Delivery Deal",
+                "status": "NO MATCH",
+                "confidence_score": 72.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.3,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "LEGO 10696 Creative Bricks Box 484 pcs",
+                "status": "NO MATCH",
+                "confidence_score": 64.96,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.37,
+                    "size": 1.0,
+                    "quantity": 0.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 2,
+        "category": "Toys & Games",
+        "amazon_product": "Hasbro Jenga Classic Tower Stacking Game for Kids and Families, Ages 6+, Wooden Blocks",
+        "matches": [
+            {
+                "serp_title": "Hasbro Jenga Classic Wooden Tower Game for Family Fun",
+                "status": "REVIEW",
+                "confidence_score": 84.75,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.62,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Hasbro Jenga Game – Classic Tower Challenge",
+                "status": "NO MATCH",
+                "confidence_score": 79.53,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.49,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Buy Jenga Classic Online – Fast Delivery",
+                "status": "NO MATCH",
+                "confidence_score": 22.22,
+                "scores": {
+                    "brand": 0.22,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "Jenga Classic by Hasbro – Wooden Stacking Game",
+                "status": "NO MATCH",
+                "confidence_score": 18.18,
+                "scores": {
+                    "brand": 0.18,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "Jenga Tower Game – Hasbro Official",
+                "status": "NO MATCH",
+                "confidence_score": 18.18,
+                "scores": {
+                    "brand": 0.18,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "Jenga Classic Game | Free Shipping | Best Deal Today",
+                "status": "NO MATCH",
+                "confidence_score": 18.18,
+                "scores": {
+                    "brand": 0.18,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "Jenga Family Game for Kids & Adults – 6+ | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 18.18,
+                "scores": {
+                    "brand": 0.18,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 3,
+        "category": "Toys & Games",
+        "amazon_product": "Barbie Dreamtopia Mermaid Doll with Rainbow Tail & Tiara, Bath Play Toy for Girls, 3+",
+        "matches": [
+            {
+                "serp_title": "Barbie Dreamtopia Mermaid Doll – Rainbow Tail Toy",
+                "status": "REVIEW",
+                "confidence_score": 89.15,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.73,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Barbie Dreamtopia Doll Rainbow Tail & Tiara",
+                "status": "REVIEW",
+                "confidence_score": 86.67,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.67,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Barbie Dreamtopia Mermaid Rainbow Tiara Doll",
+                "status": "REVIEW",
+                "confidence_score": 86.67,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.67,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Barbie Dreamtopia Mermaid Bath Toy SALE – 3+ Years",
+                "status": "REVIEW",
+                "confidence_score": 83.87,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Barbie Mermaid Doll – Great Gift for Kids | Free Shipping",
+                "status": "REVIEW",
+                "confidence_score": 81.16,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Barbie Fantasy Mermaid Doll – Playtime Deal",
+                "status": "REVIEW",
+                "confidence_score": 80.34,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.51,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Mattel Barbie Mermaid Rainbow Doll for Girls (3+)",
+                "status": "NO MATCH",
+                "confidence_score": 33.33,
+                "scores": {
+                    "brand": 0.33,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 4,
+        "category": "Toys & Games",
+        "amazon_product": "Hot Wheels 20 Car Gift Pack, Die-Cast Toy Vehicles for Collectors and Kids, Multi-Color",
+        "matches": [
+            {
+                "serp_title": "Hot Wheels 20 Car Bundle – Collector Edition",
+                "status": "REVIEW",
+                "confidence_score": 82.95,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.57,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Hot Wheels Diecast Toy Cars for Kids – Great Value Deal",
+                "status": "REVIEW",
+                "confidence_score": 81.33,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Hot Wheels 20 Vehicle Set – Free Shipping on Orders 25+",
+                "status": "NO MATCH",
+                "confidence_score": 78.56,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.46,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Hot Wheels Die-Cast Pack – Perfect Gift for Boys",
+                "status": "NO MATCH",
+                "confidence_score": 78.05,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.45,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Hot Wheels Die-Cast Car Set – Multi-Pack 20 Vehicles",
+                "status": "NO MATCH",
+                "confidence_score": 77.52,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.44,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Hot Wheels Gift Pack of 20 Cars – Collect Them All!",
+                "status": "NO MATCH",
+                "confidence_score": 70.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.5,
+                    "size": 1.0,
+                    "quantity": 0.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Hot Wheels 20-Pack Cars Set | Mattel Official",
+                "status": "NO MATCH",
+                "confidence_score": 64.16,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.35,
+                    "size": 1.0,
+                    "quantity": 0.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 5,
+        "category": "Toys & Games",
+        "amazon_product": "Nerf Elite 2.0 Commander RD-6 Blaster, 12 Official Darts, Rotating Drum, Ages 8+",
+        "matches": [
+            {
+                "serp_title": "Nerf Elite 2.0 Commander RD-6 Blaster – 12 Darts",
+                "status": "MATCH",
+                "confidence_score": 91.72,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.79,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nerf Elite Commander RD-6 – 12 Darts Set (8+)",
+                "status": "REVIEW",
+                "confidence_score": 87.64,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.69,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nerf Elite Commander Gun – Rotating Drum 6-Dart Action",
+                "status": "REVIEW",
+                "confidence_score": 84.26,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.61,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nerf RD-6 Commander Blaster | Hasbro Official",
+                "status": "REVIEW",
+                "confidence_score": 81.54,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.54,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nerf Commander RD-6 Toy Blaster – Free Shipping Deal",
+                "status": "REVIEW",
+                "confidence_score": 81.39,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nerf Commander Blaster – Power, Speed, Accuracy",
+                "status": "NO MATCH",
+                "confidence_score": 79.48,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.49,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nerf Elite 2.0 Blaster Toy – Buy Online Today!",
+                "status": "NO MATCH",
+                "confidence_score": 78.41,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.46,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 6,
+        "category": "Toys & Games",
+        "amazon_product": "Crayola Washable Kids Paint Set, 12 Classic Colors, Non-Toxic Art Supplies for School or Home",
+        "matches": [
+            {
+                "serp_title": "Crayola Washable Kids Paint 12 Colors Set",
+                "status": "REVIEW",
+                "confidence_score": 83.88,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Crayola Kids Paints – Easy Wash Out Art Set",
+                "status": "NO MATCH",
+                "confidence_score": 79.7,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.49,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Crayola Paint Kit – Non-Toxic Washable Paints for Kids",
+                "status": "NO MATCH",
+                "confidence_score": 79.31,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Crayola Paint Set for School Projects – Free Delivery",
+                "status": "NO MATCH",
+                "confidence_score": 79.08,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Crayola 12 Color Paint Set – Fun Learning Tool",
+                "status": "NO MATCH",
+                "confidence_score": 76.35,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.41,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Crayola Washable Art Kit – Kids Creative Pack | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 74.71,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.37,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Crayola Art Supplies for Kids – Washable Paints 12 Pack",
+                "status": "NO MATCH",
+                "confidence_score": 66.81,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.42,
+                    "size": 1.0,
+                    "quantity": 0.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 7,
+        "category": "DIY & Tools",
+        "amazon_product": "Makita Cordless Drill Driver 18V LXT with 2x 3.0Ah Batteries, Charger & Carry Case",
+        "matches": [
+            {
+                "serp_title": "Makita Drill Driver 18V Kit with 2 Batteries & Case",
+                "status": "REVIEW",
+                "confidence_score": 89.15,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.73,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Makita 18V Cordless Drill Driver Set – LXT Series",
+                "status": "REVIEW",
+                "confidence_score": 84.57,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.61,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Makita 18V Cordless Kit – With Case & Charger | SALE",
+                "status": "REVIEW",
+                "confidence_score": 82.48,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.56,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Makita Cordless Drill 18V Combo Pack | Fast Shipping",
+                "status": "REVIEW",
+                "confidence_score": 80.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.5,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Makita LXT 18V Drill Driver Set – Best Price Online",
+                "status": "NO MATCH",
+                "confidence_score": 79.22,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Makita LXT Drill Set – Power Tools for Professionals",
+                "status": "NO MATCH",
+                "confidence_score": 75.38,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.38,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Makita LXT Cordless Power Drill – Free Delivery",
+                "status": "NO MATCH",
+                "confidence_score": 75.14,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.38,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 8,
+        "category": "DIY & Tools",
+        "amazon_product": "Bosch Professional GSB 18V-21 Cordless Combi Drill with 2x 1.5Ah Batteries, Charger & Case",
+        "matches": [
+            {
+                "serp_title": "Bosch GSB 18V-21 Cordless Combi Drill – 2 Batteries",
+                "status": "REVIEW",
+                "confidence_score": 88.61,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Bosch Professional 18V Drill Set with Charger & Case",
+                "status": "REVIEW",
+                "confidence_score": 86.67,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.67,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Bosch Professional Cordless Drill – Complete Set",
+                "status": "REVIEW",
+                "confidence_score": 83.28,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.58,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Bosch 18V Drill Driver Kit – Long Battery Life",
+                "status": "NO MATCH",
+                "confidence_score": 76.97,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.42,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Bosch 18V Professional Drill – Free Shipping | Deal",
+                "status": "NO MATCH",
+                "confidence_score": 76.55,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.41,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Bosch Cordless Power Tool Combo – 18V GSB 21 Kit",
+                "status": "NO MATCH",
+                "confidence_score": 73.73,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.34,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Bosch GSB 18V-21 Set – DIY & Professional Use",
+                "status": "NO MATCH",
+                "confidence_score": 73.02,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.33,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 9,
+        "category": "DIY & Tools",
+        "amazon_product": "Stanley FatMax Tape Measure 8m/26ft, Durable Blade, Shock-Absorbing Case, Metric/Imperial",
+        "matches": [
+            {
+                "serp_title": "Stanley FatMax Tape Measure 8m/26ft – Durable Blade",
+                "status": "REVIEW",
+                "confidence_score": 87.88,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.7,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Stanley FatMax 26ft Tape Measure – Reliable Tool",
+                "status": "REVIEW",
+                "confidence_score": 82.05,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.55,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Stanley 8m Tape – Metric/Imperial Dual Markings",
+                "status": "NO MATCH",
+                "confidence_score": 77.5,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.44,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Stanley 8m Tape – Precision Measuring Tool",
+                "status": "NO MATCH",
+                "confidence_score": 76.26,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.41,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Stanley FatMax Tape – Shock-Absorbing Case | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.63,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Stanley FatMax Metric/Imperial Tape | Official Store",
+                "status": "NO MATCH",
+                "confidence_score": 72.33,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.5,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Stanley Professional Tape Measure – Free Delivery",
+                "status": "NO MATCH",
+                "confidence_score": 67.96,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.39,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 10,
+        "category": "DIY & Tools",
+        "amazon_product": "DeWalt 18V XR Brushless Impact Driver with Battery and Charger, Compact Design, DCF887",
+        "matches": [
+            {
+                "serp_title": "DeWalt XR Impact Driver with Battery & Charger",
+                "status": "REVIEW",
+                "confidence_score": 87.08,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.68,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "DeWalt 18V XR Brushless Impact Driver – DCF887 Kit",
+                "status": "REVIEW",
+                "confidence_score": 86.27,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.66,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "DeWalt Cordless Impact Driver 18V – Compact Design",
+                "status": "REVIEW",
+                "confidence_score": 85.07,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.63,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "DeWalt XR 18V Impact Driver Kit – Limited Offer",
+                "status": "NO MATCH",
+                "confidence_score": 79.84,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.5,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "DeWalt DCF887 Brushless Impact Tool – Professional Use",
+                "status": "NO MATCH",
+                "confidence_score": 79.13,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "DeWalt 18V XR Series Power Tool – Brushless Motor",
+                "status": "NO MATCH",
+                "confidence_score": 76.24,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.41,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "DeWalt DCF887 Set | Free Shipping | Hot Deal",
+                "status": "NO MATCH",
+                "confidence_score": 69.72,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.24,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 11,
+        "category": "DIY & Tools",
+        "amazon_product": "BLACK+DECKER Cordless Screwdriver 3.6V, Rechargeable, with LED Light and Magnetic Bit Holder",
+        "matches": [
+            {
+                "serp_title": "Black+Decker Cordless Screwdriver 3.6V – LED Light",
+                "status": "REVIEW",
+                "confidence_score": 87.43,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.69,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "BLACK+DECKER 3.6V Screwdriver with Magnetic Bit Holder",
+                "status": "REVIEW",
+                "confidence_score": 87.4,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.68,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Black & Decker Electric Screwdriver – 3.6 Volt Power",
+                "status": "REVIEW",
+                "confidence_score": 81.71,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.54,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "BLACK+DECKER Rechargeable Screwdriver – Compact Design",
+                "status": "NO MATCH",
+                "confidence_score": 79.44,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.49,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "BLACK+DECKER Rechargeable Power Tool – DIY Essential",
+                "status": "NO MATCH",
+                "confidence_score": 79.15,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "BLACK+DECKER 3.6V Screwdriver – On Sale Now",
+                "status": "NO MATCH",
+                "confidence_score": 77.5,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.44,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "BLACK+DECKER Cordless Tool – Free Delivery on Orders 25+",
+                "status": "NO MATCH",
+                "confidence_score": 77.1,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.43,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 12,
+        "category": "DIY & Tools",
+        "amazon_product": "Dremel 4000 Multi-Tool Rotary Kit with 65 Accessories, Variable Speed, 175W Motor",
+        "matches": [
+            {
+                "serp_title": "Dremel 4000 Multi-Tool Kit – 65 Accessories Included",
+                "status": "REVIEW",
+                "confidence_score": 88.09,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.7,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Dremel Rotary Tool 4000 Series – 175W Variable Speed",
+                "status": "REVIEW",
+                "confidence_score": 82.6,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.56,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Dremel 4000 Kit – Power Tools with Case & Accessories",
+                "status": "REVIEW",
+                "confidence_score": 81.54,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.54,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Dremel Multi-Tool Kit – Free Shipping | Best Deal",
+                "status": "NO MATCH",
+                "confidence_score": 78.69,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.47,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Dremel 4000 Rotary Tool Set – DIY, Craft, Polishing",
+                "status": "NO MATCH",
+                "confidence_score": 77.23,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.43,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Dremel Variable Speed Rotary Tool 4000 | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 76.81,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.42,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Dremel Rotary 4000 – Professional Finishing Tool",
+                "status": "NO MATCH",
+                "confidence_score": 75.12,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.38,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 13,
+        "category": "DIY & Tools",
+        "amazon_product": "Einhell TC-TS 2025/2 Table Saw, 1800W, 250mm Blade, with Parallel Stop and Saw Blade Guard",
+        "matches": [
+            {
+                "serp_title": "Einhell Table Saw 250mm Blade – Adjustable Parallel Stop",
+                "status": "REVIEW",
+                "confidence_score": 83.64,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.59,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Einhell Table Saw – 250mm Blade, 1800W Motor",
+                "status": "REVIEW",
+                "confidence_score": 80.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.5,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Einhell TC-TS 2025/2 Table Saw – 1800W Power Tool",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.66,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Einhell TC-TS 2025/2 – Precision Cutting Saw Machine",
+                "status": "NO MATCH",
+                "confidence_score": 71.01,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.46,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Einhell 1800W Table Saw with Guard – DIY Workshop Tool",
+                "status": "NO MATCH",
+                "confidence_score": 70.15,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.44,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Einhell 2025/2 Saw – Great Price on Power Tools",
+                "status": "NO MATCH",
+                "confidence_score": 66.76,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.36,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Einhell Professional Table Saw – Free Delivery | Offer",
+                "status": "NO MATCH",
+                "confidence_score": 65.83,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.33,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 14,
+        "category": "Electronics",
+        "amazon_product": "Samsung 55-Inch Crystal UHD 4K Smart TV (2024 Model), HDR10+, Alexa Built-In, Black",
+        "matches": [
+            {
+                "serp_title": "Samsung 55\" 4K UHD Smart TV – 2024 Edition",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.61,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Samsung 55in UHD Smart TV with Alexa Built-in",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.64,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Samsung Crystal UHD 55\" TV – Best Price Online",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.49,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Samsung Smart 4K TV – Free Shipping | Hot Deal 2024",
+                "status": "NO MATCH",
+                "confidence_score": 73.15,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.4,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Samsung 2024 Smart UHD TV – Big Savings Event",
+                "status": "NO MATCH",
+                "confidence_score": 73.13,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.4,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Samsung Crystal UHD TV 55 Inch – HDR10+ | Smart Features",
+                "status": "NO MATCH",
+                "confidence_score": 69.67,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.5,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Samsung 4K 55 Inch Smart TV | Crystal Display",
+                "status": "NO MATCH",
+                "confidence_score": 68.96,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.49,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 15,
+        "category": "Electronics",
+        "amazon_product": "Apple AirPods Pro (2nd Generation) with MagSafe Charging Case, Active Noise Cancellation",
+        "matches": [
+            {
+                "serp_title": "Apple AirPods Pro 2nd Gen – MagSafe Case | Official Apple",
+                "status": "REVIEW",
+                "confidence_score": 85.23,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.63,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Apple AirPods Pro – ANC, MagSafe Charging | 2024 Edition",
+                "status": "REVIEW",
+                "confidence_score": 84.93,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.62,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Apple AirPods Pro – Noise Cancelling Earphones",
+                "status": "REVIEW",
+                "confidence_score": 80.92,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Apple AirPods Pro 2nd Generation – Best Sound Quality",
+                "status": "REVIEW",
+                "confidence_score": 80.44,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.51,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Apple AirPods Pro 2 – Free Shipping | New Deal 2024",
+                "status": "NO MATCH",
+                "confidence_score": 74.55,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.36,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "AirPods Pro (2nd Gen) – Noise Cancelling Wireless Earbuds",
+                "status": "NO MATCH",
+                "confidence_score": 33.33,
+                "scores": {
+                    "brand": 0.33,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "AirPods Pro (2nd Gen) with Case – Buy Now | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 33.33,
+                "scores": {
+                    "brand": 0.33,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 16,
+        "category": "Electronics",
+        "amazon_product": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones, 30h Battery, Black",
+        "matches": [
+            {
+                "serp_title": "Sony WH-1000XM5 Wireless Headphones – Noise Cancelling",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.66,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Sony XM5 Headphones – 30 Hour Battery | Official Store",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.58,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Sony WH1000XM5 ANC Headphones – Best Sound Quality",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.57,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Sony XM5 Noise Cancelling Headphones – Free Delivery",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.67,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Sony WH-1000XM5 Headphones – Premium Audio Deal",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Sony XM5 Noise Cancelling Headphones – Hot Offer",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.7,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Sony Wireless Headphones – WH-1000XM5 | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 68.21,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.28,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 17,
+        "category": "Electronics",
+        "amazon_product": "Anker Soundcore Bluetooth Speaker Mini 3, 15W Portable Speaker with BassUp Technology, IPX7 Waterproof",
+        "matches": [
+            {
+                "serp_title": "Anker Soundcore Portable Speaker Mini 3 | Waterproof IPX7",
+                "status": "REVIEW",
+                "confidence_score": 83.44,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.59,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Anker Soundcore Mini 3 Bluetooth Speaker – 15W BassUp",
+                "status": "REVIEW",
+                "confidence_score": 83.01,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.58,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Anker Soundcore Mini 3 Speaker – Long Battery Life",
+                "status": "NO MATCH",
+                "confidence_score": 78.13,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.45,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Anker Mini 3 Portable Speaker – Free Shipping Deal",
+                "status": "NO MATCH",
+                "confidence_score": 77.71,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.44,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Anker Mini Speaker – Best Wireless Sound Quality",
+                "status": "NO MATCH",
+                "confidence_score": 74.05,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.35,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Soundcore Mini 3 by Anker – 15W Wireless Speaker",
+                "status": "NO MATCH",
+                "confidence_score": 28.57,
+                "scores": {
+                    "brand": 0.29,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "Soundcore Bluetooth Speaker – 15W Compact Design | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 28.57,
+                "scores": {
+                    "brand": 0.29,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 18,
+        "category": "Electronics",
+        "amazon_product": "Canon PIXMA MG3650S All-in-One Inkjet Printer, Wi-Fi, Mobile & Cloud Printing, Black",
+        "matches": [
+            {
+                "serp_title": "Canon PIXMA MG3650S Printer – Wireless All-in-One",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.47,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Canon MG3650S Inkjet Printer – Wi-Fi, Cloud Print",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.73,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Canon PIXMA MG3650S – Home & Office Printer SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.55,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Canon Wi-Fi Printer – Easy Setup & Fast Print",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.46,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Canon MG3650S Inkjet Printer – Official Store",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.51,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Canon MG3650S Printer | Free Delivery | Great Deal",
+                "status": "NO MATCH",
+                "confidence_score": 74.61,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.44,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Canon All-in-One Printer – PIXMA MG3650S Series",
+                "status": "NO MATCH",
+                "confidence_score": 72.12,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.38,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 19,
+        "category": "Electronics",
+        "amazon_product": "Logitech MK270 Wireless Keyboard and Mouse Combo, 2.4GHz, Long Battery Life",
+        "matches": [
+            {
+                "serp_title": "Logitech Keyboard & Mouse Combo – Long Battery Life",
+                "status": "MATCH",
+                "confidence_score": 90.82,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.77,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Logitech MK270 Wireless Keyboard + Mouse Combo",
+                "status": "REVIEW",
+                "confidence_score": 89.58,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.74,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Logitech MK270 – Wireless Keyboard Mouse Kit",
+                "status": "REVIEW",
+                "confidence_score": 87.35,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.68,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Logitech Wireless Keyboard Mouse Set – Great Price",
+                "status": "REVIEW",
+                "confidence_score": 84.72,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.62,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Logitech MK270 Set – 2.4GHz Wireless USB Receiver",
+                "status": "NO MATCH",
+                "confidence_score": 79.67,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.49,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Logitech MK270 Combo – Reliable and Durable | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 77.93,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.45,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Logitech MK270 Bundle | Free Shipping | Hot Offer",
+                "status": "NO MATCH",
+                "confidence_score": 76.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.4,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 20,
+        "category": "Electronics",
+        "amazon_product": "Philips 10000mAh Power Bank, 18W Fast Charging, Dual USB Output, Black",
+        "matches": [
+            {
+                "serp_title": "Philips 18W Fast Power Bank – Black | SALE",
+                "status": "REVIEW",
+                "confidence_score": 82.37,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.56,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Philips 10000mAh Power Bank – 18W Fast Charge",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Philips Fast Charging Power Bank – Dual USB Outputs",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.66,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Philips 10,000 mAh Power Bank – Long Battery Backup",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.61,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Philips USB Power Bank – Dual Output Charger",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.62,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Philips Power Bank – Free Delivery | Hot Deal 2024",
+                "status": "NO MATCH",
+                "confidence_score": 74.39,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.43,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Philips Portable Charger 10000mAh – Compact Design",
+                "status": "NO MATCH",
+                "confidence_score": 73.28,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.41,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 21,
+        "category": "Electronics",
+        "amazon_product": "Fitbit Inspire 3 Health & Fitness Tracker, Sleep Tracking, Heart Rate, Stress Management, Black",
+        "matches": [
+            {
+                "serp_title": "Fitbit Inspire 3 – Health & Fitness Tracker | Black",
+                "status": "REVIEW",
+                "confidence_score": 86.09,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.65,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Fitbit Inspire 3 Smart Band – Heart Rate, Sleep Monitor",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.55,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Fitbit Inspire 3 Fitness Watch – Stress Management",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.64,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Fitbit Inspire 3 – Activity & Wellness Tracker | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.49,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Fitbit Inspire 3 Tracker – Sleep & Health Monitoring",
+                "status": "NO MATCH",
+                "confidence_score": 74.02,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.43,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Fitbit Inspire 3 – Free Shipping | Fitness Deal 2024",
+                "status": "NO MATCH",
+                "confidence_score": 73.39,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.41,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Fitbit Inspire 3 Smartwatch – Official Store",
+                "status": "NO MATCH",
+                "confidence_score": 73.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.4,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 22,
+        "category": "Electronics",
+        "amazon_product": "Amazon Echo Dot (5th Gen) Smart Speaker with Alexa, Bluetooth, Wi-Fi, Deep Bass, Charcoal",
+        "matches": [
+            {
+                "serp_title": "Amazon Echo Dot 5th Gen – Smart Speaker with Alexa",
+                "status": "REVIEW",
+                "confidence_score": 88.44,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.71,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Amazon Echo Dot (5th Gen) – Deep Bass Sound | SALE",
+                "status": "REVIEW",
+                "confidence_score": 82.22,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.56,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Amazon Echo Dot Smart Home Speaker (5th Gen)",
+                "status": "REVIEW",
+                "confidence_score": 81.09,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Echo Dot 5 – Charcoal Edition | Bluetooth & Wi-Fi",
+                "status": "NO MATCH",
+                "confidence_score": 20.0,
+                "scores": {
+                    "brand": 0.2,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "Echo Dot 5th Gen – Free Shipping | Deal of the Day",
+                "status": "NO MATCH",
+                "confidence_score": 20.0,
+                "scores": {
+                    "brand": 0.2,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "Echo Dot 5 – Alexa Smart Speaker | Official Amazon",
+                "status": "NO MATCH",
+                "confidence_score": 20.0,
+                "scores": {
+                    "brand": 0.2,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "Echo Dot Smart Speaker – Voice Assistant Device",
+                "status": "NO MATCH",
+                "confidence_score": 20.0,
+                "scores": {
+                    "brand": 0.2,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 23,
+        "category": "Electronics",
+        "amazon_product": "GoPro HERO12 Black Action Camera, 5.3K60 Video, 27MP Photos, Waterproof, Stabilization",
+        "matches": [
+            {
+                "serp_title": "GoPro HERO12 Black – 5.3K Action Camera | Official Store",
+                "status": "REVIEW",
+                "confidence_score": 80.81,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "GoPro HERO 12 Black Edition – Action Sports Camera",
+                "status": "NO MATCH",
+                "confidence_score": 79.1,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "GoPro HERO 12 – 27MP Photo, 5.3K60 Video Recording",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "GoPro Action Cam HERO12 – Stabilized Waterproof Design",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "GoPro HERO12 Camera – Free Shipping | Hot Deal 2024",
+                "status": "NO MATCH",
+                "confidence_score": 73.84,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.42,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "GoPro HERO12 – Professional 5.3K Camera | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 71.96,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.37,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "GoPro HERO12 – Capture Every Adventure | Offer",
+                "status": "NO MATCH",
+                "confidence_score": 68.8,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.3,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 24,
+        "category": "Beauty",
+        "amazon_product": "L’Oréal Paris Revitalift Hyaluronic Acid Serum, Hydrating Anti-Ageing Face Serum, 30ml",
+        "matches": [
+            {
+                "serp_title": "L’Oréal Revitalift Hyaluronic Acid Serum 30ml – Hydration Boost",
+                "status": "REVIEW",
+                "confidence_score": 89.63,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.74,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "L’Oréal Revitalift 30ml – Anti-Ageing Serum Offer",
+                "status": "REVIEW",
+                "confidence_score": 84.35,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.61,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "L’Oréal Hyaluronic Acid Serum – Revitalift 30ml | SALE",
+                "status": "REVIEW",
+                "confidence_score": 81.51,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.54,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "L’Oréal Paris Revitalift Face Serum – Moisturising Formula",
+                "status": "NO MATCH",
+                "confidence_score": 72.65,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.5,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "L’Oreal Hyaluronic Serum – Smooth & Glow Skin Care",
+                "status": "NO MATCH",
+                "confidence_score": 71.7,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Revitalift Serum by L’Oreal – Free Shipping | Great Deal",
+                "status": "NO MATCH",
+                "confidence_score": 50.0,
+                "scores": {
+                    "brand": 0.5,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "L'Oreal Paris Revitalift Serum – Anti Age Face Serum 30 ml",
+                "status": "NO MATCH",
+                "confidence_score": 28.57,
+                "scores": {
+                    "brand": 0.29,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 25,
+        "category": "Beauty",
+        "amazon_product": "Neutrogena Hydro Boost Water Gel Moisturiser, Hyaluronic Acid, 50ml",
+        "matches": [
+            {
+                "serp_title": "Neutrogena Hydro Boost Water Gel – Hyaluronic Acid 50ml",
+                "status": "MATCH",
+                "confidence_score": 94.91,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.87,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Neutrogena Hydro Boost – Deep Hydration Formula | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.62,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Neutrogena Water Gel Moisturizer – Free Shipping Deal",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.66,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Neutrogena Hydro Boost – Oil-Free Daily Moisturiser",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.67,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Neutrogena Hydro Boost Moisturiser – Lightweight Gel Cream",
+                "status": "NO MATCH",
+                "confidence_score": 74.58,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.63,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Neutrogena Hyaluronic Gel – For Smooth Skin",
+                "status": "NO MATCH",
+                "confidence_score": 70.36,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.45,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Hydro Boost by Neutrogena – Hydrating Face Gel 50ml",
+                "status": "NO MATCH",
+                "confidence_score": 26.67,
+                "scores": {
+                    "brand": 0.27,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 26,
+        "category": "Beauty",
+        "amazon_product": "The Ordinary Niacinamide 10% + Zinc 1% Serum, 30ml, Oil Control and Pore Minimizing Formula",
+        "matches": [
+            {
+                "serp_title": "The Ordinary Niacinamide 10% + Zinc 1% Serum – 30ml",
+                "status": "REVIEW",
+                "confidence_score": 86.02,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.65,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "The Ordinary Skincare – Niacinamide 10% Serum 30ml",
+                "status": "REVIEW",
+                "confidence_score": 81.12,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "The Ordinary Niacinamide Serum – Pore Control Formula",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "The Ordinary Niacinamide 10% – Clear Skin Formula",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.59,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "The Ordinary Serum – Oil Control & Blemish Care",
+                "status": "NO MATCH",
+                "confidence_score": 74.09,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.54,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "The Ordinary 10% Niacinamide Serum | SALE | Free Shipping",
+                "status": "NO MATCH",
+                "confidence_score": 73.19,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Niacinamide + Zinc Serum – The Ordinary Skincare 30ml",
+                "status": "NO MATCH",
+                "confidence_score": 14.29,
+                "scores": {
+                    "brand": 0.14,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 27,
+        "category": "Beauty",
+        "amazon_product": "CeraVe Foaming Facial Cleanser for Normal to Oily Skin, with Ceramides & Niacinamide, 236ml",
+        "matches": [
+            {
+                "serp_title": "CeraVe Foaming Cleanser 236ml – For Normal to Oily Skin",
+                "status": "REVIEW",
+                "confidence_score": 88.92,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "CeraVe Foaming Cleanser – 236ml | Gentle Daily Wash",
+                "status": "REVIEW",
+                "confidence_score": 80.65,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "CeraVe Foaming Face Wash – 236ml Bottle",
+                "status": "NO MATCH",
+                "confidence_score": 75.44,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.39,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "CeraVe Foaming Facial Cleanser – Deep Clean | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.58,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "CeraVe Face Wash – Ceramides & Niacinamide Formula",
+                "status": "NO MATCH",
+                "confidence_score": 74.83,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.56,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "CeraVe Cleanser for Oily Skin – Dermatologist Approved",
+                "status": "NO MATCH",
+                "confidence_score": 73.24,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "CeraVe Skincare Cleanser – Free Shipping | Best Deal",
+                "status": "NO MATCH",
+                "confidence_score": 68.21,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.39,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 28,
+        "category": "Beauty",
+        "amazon_product": "Maybelline SuperStay Matte Ink Liquid Lipstick, Longwear Formula, Shade 65 Seductress, 5ml",
+        "matches": [
+            {
+                "serp_title": "Maybelline Matte Ink – Long Lasting Lip Color 5ml",
+                "status": "NO MATCH",
+                "confidence_score": 79.22,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Maybelline SuperStay 5ml – Rich Pigment Lip Color",
+                "status": "NO MATCH",
+                "confidence_score": 79.22,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Maybelline SuperStay Matte Ink Lipstick – Shade 65 Seductress",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.81,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Maybelline Matte Ink Lipstick 65 Seductress – Hot Offer",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.65,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Maybelline Liquid Lipstick – Free Delivery Deal",
+                "status": "NO MATCH",
+                "confidence_score": 71.07,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.46,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "SuperStay Lipstick by Maybelline – 65 Seductress | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 21.05,
+                "scores": {
+                    "brand": 0.21,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "SuperStay Matte Ink Lipstick – Longwear Lip Makeup",
+                "status": "NO MATCH",
+                "confidence_score": 21.05,
+                "scores": {
+                    "brand": 0.21,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 29,
+        "category": "Beauty",
+        "amazon_product": "Garnier Micellar Cleansing Water, 400ml, For Sensitive Skin, Makeup Remover, No Rinse",
+        "matches": [
+            {
+                "serp_title": "Garnier Micellar Cleansing Water 400ml – Sensitive Skin",
+                "status": "REVIEW",
+                "confidence_score": 89.61,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.74,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Garnier Makeup Remover – Micellar Water 400ml",
+                "status": "NO MATCH",
+                "confidence_score": 77.09,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.43,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Garnier Micellar Water 400ml – Daily Face Cleanser",
+                "status": "NO MATCH",
+                "confidence_score": 76.39,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.41,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Garnier Micellar Cleanser – Gentle No-Rinse Formula | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.59,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Garnier Micellar Cleansing Water – Makeup Off Easily",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.65,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Garnier Micellar Water – Sensitive Skin Formula",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.64,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Garnier Micellar Water – Free Shipping on Orders 25+",
+                "status": "NO MATCH",
+                "confidence_score": 72.67,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.5,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 30,
+        "category": "Beauty",
+        "amazon_product": "Himalaya Purifying Neem Face Wash, Prevents Pimples, 150ml",
+        "matches": [
+            {
+                "serp_title": "Himalaya Neem Purifying Face Wash 150ml Tube",
+                "status": "REVIEW",
+                "confidence_score": 86.67,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.67,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Himalaya Neem Face Wash – Purifying Formula 150ml",
+                "status": "REVIEW",
+                "confidence_score": 85.81,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.65,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Himalaya Face Wash – Neem Extract 150ml | SALE",
+                "status": "REVIEW",
+                "confidence_score": 80.24,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.51,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Himalaya Neem Wash – Prevents Pimples | Herbal Skincare",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.68,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Himalaya Herbal Face Wash – Neem Formula",
+                "status": "NO MATCH",
+                "confidence_score": 73.83,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Himalaya Neem Cleanser – Free Delivery | Best Price",
+                "status": "NO MATCH",
+                "confidence_score": 73.21,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Himalaya Neem Cleanser – Gentle Herbal Face Wash",
+                "status": "NO MATCH",
+                "confidence_score": 71.28,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.47,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 31,
+        "category": "Pet Supplies",
+        "amazon_product": "Pedigree Adult Dry Dog Food, Chicken & Vegetables Flavor, 10kg Pack",
+        "matches": [
+            {
+                "serp_title": "Pedigree Adult Dog Food 10kg – Chicken & Veg Flavor",
+                "status": "MATCH",
+                "confidence_score": 92.94,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.82,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Pedigree Adult Chicken Flavor Dog Food – 10kg Pack",
+                "status": "REVIEW",
+                "confidence_score": 83.3,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.58,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Pedigree Chicken & Veg Dog Food – 10kg | SALE",
+                "status": "REVIEW",
+                "confidence_score": 80.67,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Pedigree Dry Food for Adult Dogs – 10kg Bag",
+                "status": "NO MATCH",
+                "confidence_score": 77.5,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.44,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Pedigree Adult Dry Dog Food – Free Shipping Offer",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.62,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Pedigree Adult Dog Food – Great Taste & Nutrition",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.59,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Pedigree Dry Dog Food – Healthy Nutrition Formula",
+                "status": "NO MATCH",
+                "confidence_score": 74.18,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.54,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 32,
+        "category": "Pet Supplies",
+        "amazon_product": "Whiskas Adult Wet Cat Food Pouches, Tuna in Jelly, 85g x 12 Pack",
+        "matches": [
+            {
+                "serp_title": "Whiskas Wet Cat Food Pouches – Tuna in Jelly 12x85g",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.83,
+                    "size": 0.5,
+                    "quantity": 0.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Whiskas Adult Cat Food – Tuna in Jelly 12 Pack",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.79,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Whiskas Cat Food – Tuna Jelly Pouch 12 Pack | Free Shipping",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.68,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Whiskas Tuna Jelly Pouches – 12pcs Pack",
+                "status": "NO MATCH",
+                "confidence_score": 73.9,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Whiskas Cat Food Tuna – Healthy Wet Meal Pack",
+                "status": "NO MATCH",
+                "confidence_score": 66.99,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.61,
+                    "size": 0.5,
+                    "quantity": 0.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Whiskas Tuna Wet Cat Food – 12 Sachets | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 66.24,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.59,
+                    "size": 0.5,
+                    "quantity": 0.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Whiskas Adult Tuna Jelly – 12x85g | Great Deal",
+                "status": "NO MATCH",
+                "confidence_score": 65.11,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.57,
+                    "size": 0.5,
+                    "quantity": 0.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 33,
+        "category": "Pet Supplies",
+        "amazon_product": "Royal Canin Medium Adult Dog Food, 15kg, High Digestibility Formula",
+        "matches": [
+            {
+                "serp_title": "Royal Canin Medium Adult Dog Food 15kg – Digestive Care",
+                "status": "MATCH",
+                "confidence_score": 90.99,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.77,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Royal Canin Medium Breed Adult Dog Food – 15kg Bag",
+                "status": "REVIEW",
+                "confidence_score": 86.42,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.66,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Royal Canin Dog Food – Medium Breed Formula 15kg",
+                "status": "REVIEW",
+                "confidence_score": 84.62,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.62,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Royal Canin Dog Food 15kg – Balanced Diet",
+                "status": "REVIEW",
+                "confidence_score": 81.44,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.54,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Royal Canin 15kg Dog Food – Free Shipping | Best Price",
+                "status": "REVIEW",
+                "confidence_score": 81.28,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Royal Canin Adult Dog Food – Premium Nutrition | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Royal Canin Adult Dog Food – Healthy Coat & Energy",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.61,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 34,
+        "category": "Pet Supplies",
+        "amazon_product": "Purina ONE Adult Cat Food, Chicken & Whole Grains, 3kg",
+        "matches": [
+            {
+                "serp_title": "Purina ONE Adult Cat Food – Chicken & Whole Grains 3kg",
+                "status": "MATCH",
+                "confidence_score": 99.15,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.98,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Purina ONE Cat Food 3kg – Chicken & Grain Recipe",
+                "status": "MATCH",
+                "confidence_score": 90.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.75,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Purina ONE Cat Food 3kg – Chicken Flavor | SALE",
+                "status": "REVIEW",
+                "confidence_score": 89.27,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.73,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Purina ONE Adult Cat Food – 3kg Pack",
+                "status": "REVIEW",
+                "confidence_score": 88.72,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Purina ONE Adult Cat Food 3kg – Free Shipping Offer",
+                "status": "REVIEW",
+                "confidence_score": 87.4,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.68,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Purina ONE Cat Food – Nutrient Rich Chicken Formula",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.64,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Purina ONE Cat Food – Wholesome Nutrition Mix",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.64,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 35,
+        "category": "Pet Supplies",
+        "amazon_product": "TetraMin Tropical Flakes Fish Food, 200g, For All Tropical Fish",
+        "matches": [
+            {
+                "serp_title": "TetraMin Tropical Flakes Fish Food 200g",
+                "status": "REVIEW",
+                "confidence_score": 89.25,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.73,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "TetraMin Tropical Fish Food – Classic Flakes 200g",
+                "status": "REVIEW",
+                "confidence_score": 85.35,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.63,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "TetraMin Tropical Flake Mix – Balanced Nutrition 200g",
+                "status": "REVIEW",
+                "confidence_score": 84.38,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.61,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "TetraMin 200g Fish Food – Healthy Fish Diet",
+                "status": "REVIEW",
+                "confidence_score": 82.74,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.57,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "TetraMin Fish Food 200g – Free Shipping | Best Deal",
+                "status": "NO MATCH",
+                "confidence_score": 79.51,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.49,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "TetraMin Fish Food – For All Tropical Fish | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.81,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "TetraMin Tropical Fish Food – Daily Feed Formula",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.63,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 36,
+        "category": "Pet Supplies",
+        "amazon_product": "KONG Classic Dog Toy, Red, Large, Durable Natural Rubber Chew Toy",
+        "matches": [
+            {
+                "serp_title": "KONG Classic Large Dog Toy – Long-Lasting Rubber",
+                "status": "REVIEW",
+                "confidence_score": 84.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "KONG Classic – Large Size Rubber Toy | SALE",
+                "status": "REVIEW",
+                "confidence_score": 82.73,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.57,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "KONG Classic Dog Toy – Large Red Durable Rubber",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.79,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "KONG Red Dog Toy – Tough Chew Toy for Large Dogs",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "KONG Dog Toy – Large Red Chew | Pet Supplies",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.49,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "KONG Durable Dog Chew Toy – Free Shipping Deal",
+                "status": "NO MATCH",
+                "confidence_score": 73.21,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "KONG Classic – Durable Toy for Active Dogs",
+                "status": "NO MATCH",
+                "confidence_score": 71.7,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 37,
+        "category": "Sports & Outdoors",
+        "amazon_product": "Adidas Men’s Running Shoes Galaxy 6, Lightweight, Breathable Mesh, Size 10, Black",
+        "matches": [
+            {
+                "serp_title": "Adidas Galaxy 6 Running Shoes – Men’s Size 10 Black",
+                "status": "REVIEW",
+                "confidence_score": 84.38,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.61,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Adidas Men’s Trainers – Galaxy 6 Black Size 10",
+                "status": "REVIEW",
+                "confidence_score": 84.07,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Adidas Men’s Sports Shoes – Galaxy 6 Lightweight Trainers",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.66,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Adidas Galaxy 6 Shoes – Breathable Mesh | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.58,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Adidas Running Shoes for Men – Free Shipping Offer",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.46,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Adidas Galaxy 6 Sneakers – Lightweight Performance",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.47,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Adidas Galaxy 6 – Running Shoes for Comfort",
+                "status": "NO MATCH",
+                "confidence_score": 72.87,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.4,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 38,
+        "category": "Sports & Outdoors",
+        "amazon_product": "Puma Women’s Training T-Shirt, DryCELL Technology, Medium, Pink",
+        "matches": [
+            {
+                "serp_title": "Puma Women’s Training Tee – Medium Pink DryCELL",
+                "status": "REVIEW",
+                "confidence_score": 86.67,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.67,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Puma Training Tee – Pink Medium | Workout Apparel",
+                "status": "NO MATCH",
+                "confidence_score": 78.72,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.47,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Puma Sportswear T-Shirt – DryCELL Tech",
+                "status": "NO MATCH",
+                "confidence_score": 74.72,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.63,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Puma Training T-Shirt – Lightweight DryCELL Fabric",
+                "status": "NO MATCH",
+                "confidence_score": 73.35,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Puma T-Shirt for Women – Sportswear Pink | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 72.07,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.49,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Puma Women’s Fitness Shirt – Breathable Material",
+                "status": "NO MATCH",
+                "confidence_score": 71.68,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.55,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Puma Women’s Sports Top – Free Shipping | Great Deal",
+                "status": "NO MATCH",
+                "confidence_score": 68.5,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.47,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 39,
+        "category": "Sports & Outdoors",
+        "amazon_product": "Nike Dri-FIT Academy Soccer Shorts, Black, Size L, Breathable Sportswear",
+        "matches": [
+            {
+                "serp_title": "Nike Dri-FIT Academy Shorts – Black Size L",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.7,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Nike Soccer Shorts – Dri-FIT Sportswear | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nike Academy Shorts – Breathable Fabric | Free Delivery",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.58,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nike Dri-FIT Black Shorts – Men’s Size L | Hot Deal",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.56,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Nike Academy Soccer Shorts – Size L Black",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.65,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Nike Dri-FIT Shorts – Performance Wear",
+                "status": "NO MATCH",
+                "confidence_score": 73.83,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nike Sports Shorts – Lightweight Fit | Dri-FIT Tech",
+                "status": "NO MATCH",
+                "confidence_score": 62.84,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.26,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 40,
+        "category": "Sports & Outdoors",
+        "amazon_product": "Wilson Pro Staff RF97 Tennis Racket, Unstrung, 340g, Black/White",
+        "matches": [
+            {
+                "serp_title": "Wilson Pro Staff 340g Tennis Racket – Black/White",
+                "status": "MATCH",
+                "confidence_score": 92.94,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.82,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Wilson Pro Staff RF97 Tennis Racket – Unstrung 340g",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.85,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Wilson RF97 Tennis Racket – Roger Federer Edition",
+                "status": "NO MATCH",
+                "confidence_score": 73.43,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Wilson Pro Staff 97 – High Precision Racquet | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 72.25,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.57,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Wilson Tennis Racket – Pro Staff 97 Unstrung",
+                "status": "NO MATCH",
+                "confidence_score": 72.25,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.57,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Wilson RF97 Racket – Free Shipping | Limited Offer",
+                "status": "NO MATCH",
+                "confidence_score": 70.9,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Wilson Pro Staff RF97 – Professional Performance",
+                "status": "NO MATCH",
+                "confidence_score": 69.88,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.51,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 41,
+        "category": "Sports & Outdoors",
+        "amazon_product": "Spalding NBA Street Outdoor Basketball, Size 7, Durable Rubber Grip, Orange",
+        "matches": [
+            {
+                "serp_title": "Spalding NBA Street Basketball – Size 7 Orange",
+                "status": "REVIEW",
+                "confidence_score": 89.58,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.74,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Spalding Orange Basketball – Official NBA Design",
+                "status": "NO MATCH",
+                "confidence_score": 79.29,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Spalding Outdoor Basketball – NBA Street Edition",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.55,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Spalding Basketball – Durable Grip | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Spalding Street Basketball – Outdoor Play Size 7",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.55,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Spalding NBA Basketball – Size 7 Rubber Grip",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Spalding NBA Ball – Free Shipping | Great Offer",
+                "status": "NO MATCH",
+                "confidence_score": 74.14,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.43,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 42,
+        "category": "Sports & Outdoors",
+        "amazon_product": "Yonex Mavis 350 Nylon Shuttlecocks, Medium Speed, White, Tube of 6",
+        "matches": [
+            {
+                "serp_title": "Yonex Mavis 350 Shuttlecocks – Medium Speed White",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.81,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Yonex Nylon Shuttles 350 – Tube of 6 | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.67,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Yonex Mavis 350 – Free Shipping | Durable Nylon Shuttles",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.62,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Yonex 350 Shuttlecocks – White Medium Speed",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Yonex Mavis Shuttlecocks – Training & Match Play",
+                "status": "NO MATCH",
+                "confidence_score": 74.25,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.54,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Yonex Mavis 350 – Tube of 6 Shuttles",
+                "status": "NO MATCH",
+                "confidence_score": 74.01,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.54,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Yonex Mavis 350 Badminton Shuttlecocks – 6 Pack",
+                "status": "NO MATCH",
+                "confidence_score": 68.89,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.66,
+                    "size": 0.5,
+                    "quantity": 0.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 43,
+        "category": "Sports & Outdoors",
+        "amazon_product": "Speedo Adult Unisex Swimming Goggles, Anti-Fog Lens, Adjustable Strap, Blue",
+        "matches": [
+            {
+                "serp_title": "Speedo Adult Swimming Goggles – Blue Adjustable Strap",
+                "status": "MATCH",
+                "confidence_score": 91.11,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.78,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Speedo Goggles for Men & Women – Blue Strap",
+                "status": "REVIEW",
+                "confidence_score": 81.05,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Speedo Adult Swim Goggles – Blue | Best Price",
+                "status": "REVIEW",
+                "confidence_score": 80.69,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Speedo Unisex Goggles – Anti-Fog Lens | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.64,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Speedo Goggles – Adjustable Strap | Free Delivery Deal",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.58,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Speedo Anti-Fog Swimming Goggles – Comfortable Fit",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Speedo Swim Goggles – Clear Vision Underwater",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.47,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 44,
+        "category": "Sports & Outdoors",
+        "amazon_product": "Decathlon Domyos 10kg Adjustable Dumbbell Set, Rubber Coated, Home Gym Equipment",
+        "matches": [
+            {
+                "serp_title": "Decathlon 10kg Dumbbell Set – Great Value Offer",
+                "status": "REVIEW",
+                "confidence_score": 80.55,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.51,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Decathlon Dumbbells – 10kg Adjustable Weights | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 79.12,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Decathlon Domyos Dumbbell Set – Strength Training",
+                "status": "NO MATCH",
+                "confidence_score": 74.8,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.56,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Domyos 10kg Dumbbell Set – Adjustable Home Gym Equipment",
+                "status": "NO MATCH",
+                "confidence_score": 26.67,
+                "scores": {
+                    "brand": 0.27,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "Domyos Dumbbell Kit – Rubber Coated | Free Delivery",
+                "status": "NO MATCH",
+                "confidence_score": 26.67,
+                "scores": {
+                    "brand": 0.27,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "Domyos Adjustable Dumbbell 10kg – Fitness Essentials",
+                "status": "NO MATCH",
+                "confidence_score": 26.67,
+                "scores": {
+                    "brand": 0.27,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "Domyos Home Gym Dumbbell Set – Durable Rubber Coating",
+                "status": "NO MATCH",
+                "confidence_score": 26.67,
+                "scores": {
+                    "brand": 0.27,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 45,
+        "category": "Sports & Outdoors",
+        "amazon_product": "Everlast Hand Wraps for Boxing, 180 Inches, Black, Elastic Cotton Blend",
+        "matches": [
+            {
+                "serp_title": "Everlast Hand Wraps – Elastic Cotton Blend | SALE",
+                "status": "REVIEW",
+                "confidence_score": 88.83,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Everlast Boxing Wraps – 180 Inches Long",
+                "status": "REVIEW",
+                "confidence_score": 82.96,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.57,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Everlast Sports Wraps – Secure Fit for Boxing",
+                "status": "NO MATCH",
+                "confidence_score": 78.25,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.46,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Everlast Boxing Hand Wraps – 180 Inches Black",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.63,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Everlast Hand Wraps – Durable Stretch Cotton | Black",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.57,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Everlast Training Wraps – Free Shipping Deal",
+                "status": "NO MATCH",
+                "confidence_score": 74.47,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.36,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Everlast 180in Wraps – Professional Boxing Gear",
+                "status": "NO MATCH",
+                "confidence_score": 72.14,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.49,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 46,
+        "category": "Sports & Outdoors",
+        "amazon_product": "Under Armour Men’s Charged Pursuit 3 Running Shoes, Lightweight Cushioning, Size 9, Grey",
+        "matches": [
+            {
+                "serp_title": "Under Armour Charged Pursuit 3 Shoes – Men’s Size 9 Grey",
+                "status": "REVIEW",
+                "confidence_score": 89.14,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.73,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Under Armour Men’s Shoes – Charged Pursuit 3 Grey",
+                "status": "REVIEW",
+                "confidence_score": 84.06,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Under Armour Pursuit 3 – Grey Sports Shoes | SALE",
+                "status": "NO MATCH",
+                "confidence_score": 78.9,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.47,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Under Armour Running Shoes – Lightweight Cushioning",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Under Armour Sneakers – Size 9 Running Gear",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.45,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Under Armour Running Shoes – Comfort Fit",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Under Armour Running Trainers – Free Delivery Offer",
+                "status": "NO MATCH",
+                "confidence_score": 74.24,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.43,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 47,
+        "category": "Beauty",
+        "amazon_product": "Neutrogena Hydro Boost Water Gel Moisturizer, 1.7 fl oz (48g)",
+        "matches": [
+            {
+                "serp_title": "Neutrogena Hydro Boost Gel Cream 50 ml - Free Shipping",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.7,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Neutrogena Hydro Boost Moisturizer 1.8oz | Sale Today",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.79,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Neutrogena Hydro Boost Water Gel Cream 48 g",
+                "status": "NO MATCH",
+                "confidence_score": 73.26,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.78,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Neutrogena Hydrating Face Cream 50ml | Hot Deal 2025",
+                "status": "NO MATCH",
+                "confidence_score": 73.18,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.4,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Hydro Boost Water Gel 45ml - Moisturising Cream",
+                "status": "NO MATCH",
+                "confidence_score": 26.67,
+                "scores": {
+                    "brand": 0.27,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "Hydro Boost Face Moisturizer 1.6oz (Approx 47ml)",
+                "status": "NO MATCH",
+                "confidence_score": 26.67,
+                "scores": {
+                    "brand": 0.27,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 48,
+        "category": "Beauty",
+        "amazon_product": "Dove Men+Care Clean Comfort Body Wash, 13.5 fl oz",
+        "matches": [
+            {
+                "serp_title": "Dove Men+Care Clean Comfort Shower Gel 380 ml",
+                "status": "MATCH",
+                "confidence_score": 91.58,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.79,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Dove Men Care Body Wash Clean Comfort 400ml",
+                "status": "REVIEW",
+                "confidence_score": 88.8,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Dove Men Care Body Wash Clean Comfort 390ml | Deal",
+                "status": "REVIEW",
+                "confidence_score": 88.8,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Dove Men+Care Shower Gel Clean Comfort 13 oz",
+                "status": "NO MATCH",
+                "confidence_score": 73.42,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.71,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Dove Men's Clean Comfort Wash 14oz - Fresh Scent",
+                "status": "NO MATCH",
+                "confidence_score": 72.65,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.69,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 49,
+        "category": "Other",
+        "amazon_product": "Lysol Disinfectant Spray, Crisp Linen Scent, 19 fl oz",
+        "matches": [
+            {
+                "serp_title": "Lysol Disinfectant Spray (Crisp Linen) 560 ml",
+                "status": "MATCH",
+                "confidence_score": 96.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.9,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Lysol Disinfectant Spray 550ml - Crisp Linen",
+                "status": "MATCH",
+                "confidence_score": 95.12,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.88,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Lysol Disinfectant Aerosol Spray 500 ml",
+                "status": "NO MATCH",
+                "confidence_score": 70.26,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.63,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Lysol Crisp Linen Spray 18.5oz | Household Cleaner",
+                "status": "NO MATCH",
+                "confidence_score": 65.71,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Lysol Room Sanitizing Spray 19oz - 540ml Approx",
+                "status": "NO MATCH",
+                "confidence_score": 60.81,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.4,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 50,
+        "category": "DIY & Tools",
+        "amazon_product": "WD-40 Multi-Use Product, 8 fl oz Can",
+        "matches": [
+            {
+                "serp_title": "WD-40 Spray Oil 240ml | Rust Remover",
+                "status": "NO MATCH",
+                "confidence_score": 75.71,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.39,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "WD-40 Multi Purpose Spray 250ml | Free Shipping",
+                "status": "NO MATCH",
+                "confidence_score": 72.17,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.68,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "WD-40 Multipurpose Lubricant 250 ml",
+                "status": "NO MATCH",
+                "confidence_score": 72.14,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.68,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "WD-40 8oz (approx 236ml) Multi-Use Can",
+                "status": "NO MATCH",
+                "confidence_score": 70.33,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.63,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "WD40 Classic Can 260 ml - Multi Use Formula",
+                "status": "NO MATCH",
+                "confidence_score": 63.47,
+                "scores": {
+                    "brand": 0.89,
+                    "core_product": 0.53,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 51,
+        "category": "Beauty",
+        "amazon_product": "Cetaphil Gentle Skin Cleanser, 16 fl oz Pump Bottle",
+        "matches": [
+            {
+                "serp_title": "Cetaphil Skin Cleanser Pump 450ml",
+                "status": "MATCH",
+                "confidence_score": 91.3,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.78,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Cetaphil Gentle Cleanser 16 fl oz / 480 ml",
+                "status": "REVIEW",
+                "confidence_score": 89.59,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.74,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Cetaphil Gentle Cleanser 470ml | Dermatologist Tested",
+                "status": "REVIEW",
+                "confidence_score": 87.59,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.69,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Cetaphil Hydrating Cleanser 460ml - For All Skin Types",
+                "status": "REVIEW",
+                "confidence_score": 81.33,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Cetaphil Gentle Skin Cleanser 500 ml (16.9 oz)",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.81,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 52,
+        "category": "Other",
+        "amazon_product": "Gatorade Thirst Quencher, Lemon Lime, 1 Gallon Bottle",
+        "matches": [
+            {
+                "serp_title": "Gatorade Lemon Lime 3.8L Bottle - Sports Drink",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.61,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Gatorade Lemon Lime 1 Gallon Jug | Free Shipping",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            },
+            {
+                "serp_title": "Gatorade 1 gal (Approx 3.7L) Sports Drink | Big Deal",
+                "status": "NO MATCH",
+                "confidence_score": 73.83,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.35,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Gatorade Thirst Quencher 4 Litre Pack",
+                "status": "NO MATCH",
+                "confidence_score": 72.4,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.68,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Gatorade Sports Energy Drink 3.9 Liters - Lemon Lime",
+                "status": "NO MATCH",
+                "confidence_score": 70.33,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.52,
+                    "size": 0.5,
+                    "quantity": 1.0,
+                    "color": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 53,
+        "category": "Beauty",
+        "amazon_product": "Aveeno Daily Moisturizing Lotion, 12 fl oz",
+        "matches": [
+            {
+                "serp_title": "Aveeno Daily Moisturizing Lotion 350ml",
+                "status": "MATCH",
+                "confidence_score": 99.38,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.98,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Aveeno Moisturizing Lotion 11.8 fl oz",
+                "status": "MATCH",
+                "confidence_score": 95.25,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.88,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Aveeno Daily Moisturizer 360 ml - Fast Absorbing",
+                "status": "REVIEW",
+                "confidence_score": 88.99,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Aveeno Moisturizer Lotion 355 ml | Natural Oat Formula",
+                "status": "REVIEW",
+                "confidence_score": 83.59,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.59,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Aveeno Hydrating Lotion 340ml - 12oz Bottle",
+                "status": "REVIEW",
+                "confidence_score": 82.86,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.57,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 54,
+        "category": "Other",
+        "amazon_product": "Tide Liquid Laundry Detergent Original Scent, 100 fl oz",
+        "matches": [
+            {
+                "serp_title": "Tide Liquid Detergent 3L Bottle - Fresh Scent",
+                "status": "REVIEW",
+                "confidence_score": 87.69,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.69,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Tide Laundry Detergent 3.1L Family Pack",
+                "status": "REVIEW",
+                "confidence_score": 87.43,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.69,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Tide Original Laundry Liquid Detergent 2.9L",
+                "status": "REVIEW",
+                "confidence_score": 87.08,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.68,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Tide Original Liquid Wash 98 fl oz (2.9L)",
+                "status": "NO MATCH",
+                "confidence_score": 78.25,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.46,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Tide 100oz Liquid (Approx 2.95L) - Deep Clean Formula",
+                "status": "NO MATCH",
+                "confidence_score": 62.78,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.44,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 55,
+        "category": "Other",
+        "amazon_product": "Starbucks Iced Coffee, Medium Roast, 48 fl oz Bottle",
+        "matches": [
+            {
+                "serp_title": "Starbucks Coffee Drink 1400ml - Medium Roast",
+                "status": "REVIEW",
+                "confidence_score": 89.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Starbucks Medium Roast Iced Coffee 1.4L",
+                "status": "REVIEW",
+                "confidence_score": 85.97,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.65,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Starbucks Cold Brew 1.5L Bottle - Medium Roast",
+                "status": "NO MATCH",
+                "confidence_score": 71.67,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.67,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Starbucks Iced Coffee Ready to Drink 48oz | Deal",
+                "status": "NO MATCH",
+                "confidence_score": 70.32,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.63,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Starbucks Brewed Iced Coffee 47oz (1.38L)",
+                "status": "NO MATCH",
+                "confidence_score": 68.9,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 56,
+        "category": "Other",
+        "amazon_product": "Heinz Tomato Ketchup, 32 oz Squeeze Bottle",
+        "matches": [
+            {
+                "serp_title": "Heinz Classic Ketchup 32oz (905ml) | Grocery Deal",
+                "status": "NO MATCH",
+                "confidence_score": 79.15,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Heinz Tomato Ketchup 900ml Squeeze Bottle",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.99,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Heinz Tomato Ketchup Squeeze Pack 910ml",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.84,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Heinz Tomato Ketchup 950 ml - Original Taste",
+                "status": "NO MATCH",
+                "confidence_score": 73.75,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.72,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Heinz Tomato Sauce Bottle 870 ml | Sale Today",
+                "status": "NO MATCH",
+                "confidence_score": 71.27,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.66,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 57,
+        "category": "Beauty",
+        "amazon_product": "CeraVe Foaming Facial Cleanser, 8 fl oz",
+        "matches": [
+            {
+                "serp_title": "CeraVe Foaming Cleanser 240 ml | Free Shipping",
+                "status": "MATCH",
+                "confidence_score": 94.07,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.85,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "CeraVe Foaming Facial Cleanser 235ml - Hydrating",
+                "status": "MATCH",
+                "confidence_score": 92.88,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.82,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "CeraVe Face Wash 8.2 fl oz",
+                "status": "REVIEW",
+                "confidence_score": 80.43,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.51,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "CeraVe Foaming Face Wash 8oz (236ml)",
+                "status": "NO MATCH",
+                "confidence_score": 71.23,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.66,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "CeraVe Gentle Cleanser 250ml | Sensitive Skin",
+                "status": "NO MATCH",
+                "confidence_score": 66.18,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.53,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 58,
+        "category": "Beauty",
+        "amazon_product": "Nivea Men Cooling Shaving Gel, 7 fl oz",
+        "matches": [
+            {
+                "serp_title": "Nivea Men Cooling Shave Gel 200 ml",
+                "status": "MATCH",
+                "confidence_score": 96.49,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.91,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nivea Shaving Foam 210ml | Men's Grooming",
+                "status": "NO MATCH",
+                "confidence_score": 79.05,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.48,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nivea Men Cooling Shave Gel 6.9oz (205ml)",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.83,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nivea Men Cooling Shave Gel 195ml | Deal",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.91,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Nivea Cooling Gel for Men 7oz / 198ml",
+                "status": "NO MATCH",
+                "confidence_score": 67.3,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.56,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 59,
+        "category": "Other",
+        "amazon_product": "PetSafe Dog Water Fountain, 1.5 Gallon",
+        "matches": [
+            {
+                "serp_title": "PetSafe Pet Fountain 5.5 L - Large Dogs",
+                "status": "REVIEW",
+                "confidence_score": 84.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "PetSafe Automatic Pet Fountain 5.9L - Quiet Pump",
+                "status": "REVIEW",
+                "confidence_score": 84.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.6,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "PetSafe Dog Fountain 5.7L | Automatic Water Bowl",
+                "status": "REVIEW",
+                "confidence_score": 83.53,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.59,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "PetSafe Drinkwell 1.5 gal (Approx 5.8 Liters)",
+                "status": "NO MATCH",
+                "confidence_score": 78.06,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.45,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "PetSafe 1.6 Gallon Dog Water Fountain | BPA Free",
+                "status": "NO MATCH",
+                "confidence_score": 75.0,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.91,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 60,
+        "category": "Other",
+        "amazon_product": "Mr. Clean Multi-Surface Cleaner, 45 fl oz",
+        "matches": [
+            {
+                "serp_title": "Mr. Clean Multi-Surface Cleaner 1.3L (Approx 44oz)",
+                "status": "MATCH",
+                "confidence_score": 93.07,
+                "scores": {
+                    "brand": 1.0,
+                    "core_product": 0.83,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Mr Clean 1.36L Multi-Surface Liquid | Free Delivery",
+                "status": "REVIEW",
+                "confidence_score": 86.48,
+                "scores": {
+                    "brand": 0.8,
+                    "core_product": 0.79,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Mr Clean Multipurpose Cleaner 1.4 Litre Bottle",
+                "status": "REVIEW",
+                "confidence_score": 84.41,
+                "scores": {
+                    "brand": 0.8,
+                    "core_product": 0.74,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Mr Clean All Purpose Liquid 1.35L",
+                "status": "NO MATCH",
+                "confidence_score": 75.34,
+                "scores": {
+                    "brand": 0.8,
+                    "core_product": 0.51,
+                    "size": 1.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            },
+            {
+                "serp_title": "Mr Clean Fresh Scent Cleaner 47oz | Bulk Pack",
+                "status": "NO MATCH",
+                "confidence_score": 62.86,
+                "scores": {
+                    "brand": 0.8,
+                    "core_product": 0.57,
+                    "size": 0.0,
+                    "quantity": 1.0,
+                    "color": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "test_case": 61,
+        "category": "Beauty",
+        "amazon_product": "L’Oreal Elvive Extraordinary Oil Shampoo, 12.6 fl oz",
+        "matches": [
+            {
+                "serp_title": "L'Oreal Elvive Extraordinary Oil Shampoo 370ml",
+                "status": "NO MATCH",
+                "confidence_score": 28.57,
+                "scores": {
+                    "brand": 0.29,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "L'Oreal Elvive Oil Shampoo 360 ml | Hair Care Deal",
+                "status": "NO MATCH",
+                "confidence_score": 28.57,
+                "scores": {
+                    "brand": 0.29,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "L'Oreal Elvive Shampoo 12.5oz (Approx 369ml)",
+                "status": "NO MATCH",
+                "confidence_score": 28.57,
+                "scores": {
+                    "brand": 0.29,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "L'Oreal Elvive Extraordinary Oil 375ml Bottle",
+                "status": "NO MATCH",
+                "confidence_score": 28.57,
+                "scores": {
+                    "brand": 0.29,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            },
+            {
+                "serp_title": "L'Oreal Shampoo 12.8 fl oz - Free Shipping",
+                "status": "NO MATCH",
+                "confidence_score": 28.57,
+                "scores": {
+                    "brand": 0.29,
+                    "core_product": 0,
+                    "size": 0,
+                    "quantity": 0,
+                    "color": 0
+                }
+            }
+        ]
+    }
+]
