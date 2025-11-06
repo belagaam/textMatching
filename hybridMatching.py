@@ -408,8 +408,8 @@ class ProductMatcher:
         match_details['final_confidence'] = confidence_percentage
         
         # Determine match status based on thresholds
-        is_match = confidence_percentage >= 90
-        needs_review = 80 <= confidence_percentage < 90
+        is_match = confidence_percentage >= 85
+        needs_review = 75 <= confidence_percentage < 85
         
         # print(is_match, needs_review)
 
