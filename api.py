@@ -5,7 +5,7 @@ from typing import List, Dict, Any, Optional
 import logging
 
 # Import the ProductMatcher class (assuming it's in the same file or imported)
-from hybridMatching import ProductMatcher
+from textMatching import ProductMatcher
 
 app = FastAPI(title="Product Matching API", version="1.0.0")
 
@@ -202,9 +202,13 @@ async def root():
 # Example usage and testing
 if __name__ == "__main__":
     import uvicorn
+    import os
+    
+    # Get port from environment variable (Render provides this)
+    port = int(os.environ.get("PORT", 8000))
     
     # Run the server
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=port)
     
     """
     Example request:
